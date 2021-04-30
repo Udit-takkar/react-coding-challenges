@@ -1,5 +1,5 @@
-import React from 'react';
-import '../styles/_discover-item.scss';
+import React from "react";
+import "../styles/_discover-item.scss";
 
 export default function DiscoverItem({ images, name }) {
   return (
