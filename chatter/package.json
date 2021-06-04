@@ -2,6 +2,7 @@
   "name": "chatter",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://botty.alexgurr.com'",
   "dependencies": {
     "@mdi/font": "^5.9.55",
     "@react-hook/mouse-position": "^4.1.0",
@@ -10,7 +11,7 @@
     "@testing-library/user-event": "^12.8.3",
     "animate.css": "^4.1.1",
     "classnames": "^2.2.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.0",
